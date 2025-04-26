@@ -1,1 +1,13 @@
-.env
+# Gizli yapılandırma dosyaları
+**/appsettings.Development.json
+**/.env 
+
+# Bağımlılık klasörleri
+**/[Bb]in/
+**/[Oo]bj/
+**/node_modules/
+**/venv/
+
+# Kullanıcıya özel dosyalar
+*.user
+*.suo
